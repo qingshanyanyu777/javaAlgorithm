@@ -16,6 +16,7 @@ public class E01Merge2SortedArray {
         System.arraycopy(a2, 0, a1, 0, a2.length);
         System.out.println(Arrays.toString(a1));
         System.out.println(Arrays.toString(a1));
+        System.out.println(Arrays.toString(a1));
     }
 
     /*
