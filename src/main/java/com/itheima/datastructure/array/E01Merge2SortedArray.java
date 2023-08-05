@@ -19,6 +19,7 @@ public class E01Merge2SortedArray {
         System.out.println(Arrays.toString(a1));
         System.out.println("hello git4!");
         System.out.println("master test!");
+        System.out.println("hot-fix test2!");
     }
 
     /*
